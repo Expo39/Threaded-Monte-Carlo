@@ -1,0 +1,47 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+monte_carlo
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+gmon.out
+
+# Profiling files
+*.prof
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# CLion
+.idea/
+cmake-build-*/
+
+# Makefiles generated files
+Makefile.deps
+.deps/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Profiler output
+callgrind.out.*
+*.gcov
+*.gcda
+*.gcno
+
+# Core dumps
+core.*

@@ -1,7 +1,7 @@
 #ifndef THREAD_ARGS_H
 #define THREAD_ARGS_H
 
-#include "../../shared/jbutil.h"
+#include "jbutil.h"
 
 struct ThreadArgs {
     int samples;
